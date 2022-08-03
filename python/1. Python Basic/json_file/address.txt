@@ -1,1 +1,0 @@
-{"alpha": {"name": "alpha", "address": "276000, linyi university, lanshang,linyi city", "phone": 1835491926}, "andrea": {"name": "andrea", "address": "276000, linyi university, lanshang,linyi city", "phone": 1526519052}}
